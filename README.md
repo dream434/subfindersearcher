@@ -1,5 +1,5 @@
 # subfindersearcher
-#  Subdomain Recon & Probing Script
+#  Subdomain Recon 
 
 Ce script Bash permet de découvrir de manière passive les sous-domaines d’un domaine cible (ex : `exemple.com`), et de vérifier lesquels sont vivants via des connexions HTTP/HTTPS.
 
