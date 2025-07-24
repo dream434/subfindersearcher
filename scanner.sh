@@ -1,6 +1,6 @@
 #!/bin/bash
 
-domain="dyson.com"
+domain="google.com"
 output="all_subs.txt"
 alive="alive.txt"
 
